@@ -22,27 +22,13 @@ Gosto de construir ferramentas úteis, aprender resolvendo problemas e evoluir u
 🔎 Crawler de Marketplaces & Validação ANATEL
 Python • Playwright • Processamento de dados • CSV / Parquet
 
-Projeto de automação para coletar dados de anúncios de diferentes marketplaces, filtrar produtos e comparar informações de homologação com uma base de referência. A estrutura contempla exportações padronizadas para apoiar análises e dashboards.
-
-Explorar o projeto →
-
 🧩 Projetos e exercícios em C#
 C# • Orientação a objetos • Estudos de API
-
-Repositório acadêmico com exercícios e aplicações desenvolvidas durante a graduação, incluindo projetos de cadastro e estudos de API.
-
-Ver repositório →
 
 🐍 Estudos e atividades em Python
 Python • Fundamentos • Prática de programação
 
-Espaço para exercícios, experimentos e evolução das habilidades com a linguagem.
 
-Ver repositório →
-
-📊 GitHub em números
-<div align="center"> <img height="170" alt="Estatísticas do GitHub" src="https://github-readme-stats.vercel.app/api?username=Leony-sf&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=C084FC&amp;icon_color=EC4899&amp;text_color=CDD6F4&amp;rank_icon=github" /> <img height="170" alt="Linguagens mais usadas nos repositórios públicos" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leony-sf&amp;layout=compact&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=C084FC&amp;text_color=CDD6F4&amp;langs_count=6" /> </div><div align="center"> <img width="95%" alt="Gráfico de atividade no GitHub" src="https://github-readme-activity-graph.vercel.app/graph?username=Leony-sf&amp;bg_color=0D1117&amp;color=C084FC&amp;line=EC4899&amp;point=FFFFFF&amp;area=true&amp;hide_border=true" /> </div>
-<sub>Os cartões de estatísticas são gerados por serviços externos a partir das informações públicas do GitHub e podem demorar a carregar ocasionalmente.</sub>
 
 <div align="center">
 🤝 Vamos nos conectar?
